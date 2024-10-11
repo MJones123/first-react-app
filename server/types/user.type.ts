@@ -1,3 +1,0 @@
-type Users = {
-    users: [string]
-}
