@@ -7,10 +7,12 @@ server/node_modules
 .pnp.js
 
 # testing
-/coverage
+/client/coverage
+/server/coverage
 
 # production
-/build
+/client/build
+/server/build
 
 # misc
 .DS_Store
